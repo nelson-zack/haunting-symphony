@@ -1,0 +1,15 @@
+# User-specific folders or temporary files that should not be versioned.
+Binaries/
+Saved/
+Intermediate/
+DerivedDataCache/
+FileOpenOrder/
+obj/
+.idea/
+# Certain file types that should not be versioned.
+*.pdb
+*-Debug.*
+.DS_Store
+# Visual Studio user settings files that should be ignored.
+.vs/
+

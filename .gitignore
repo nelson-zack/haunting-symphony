@@ -1,0 +1,18 @@
+# Unreal Engine - Skip build junk
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.log
+*.tmp
+*.db
+*.sln
+*.opensdf
+*.sdf
+
+# Ignore all of Content except Blueprints (adjust if needed)
+Content/*
+!Content/Blueprints/**
