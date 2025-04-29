@@ -64,4 +64,4 @@ To run the project:
 
 ---
 
-© SCaNZ Team 2025
+© SCaNZ Team 2023
